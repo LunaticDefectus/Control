@@ -1,0 +1,6 @@
+
+input StudentRequest{
+    name : String
+    email : String
+    dateNaissance : String
+}
